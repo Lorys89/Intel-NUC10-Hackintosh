@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/mbarbierato/Intel-NUC10i3FNK/releases)
+[![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Lorys89/Intel-NUC10-Hackintosh/releases)
 
 
 # Intel NUC10i3FNK Hackintosh
